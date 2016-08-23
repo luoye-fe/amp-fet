@@ -1,0 +1,19 @@
+{
+  "name": "amp-fet",
+  "version": "1.0.0",
+  "description": "FET的AMP插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "fet": {
+    "name": "AMP-API管理平台",
+    "desc": "便捷高效的API管理平台",
+    "entry": "http://10.69.205.26:9090/#!/main/project/list/mine",
+    "bg": "",
+    "icon": "./favico.ico"
+  }
+}
