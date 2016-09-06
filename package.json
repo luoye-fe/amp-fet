@@ -14,6 +14,6 @@
     "desc": "便捷高效的API管理平台",
     "entry": "http://10.69.205.26:9090/#!/main/project/list/mine",
     "bg": "",
-    "icon": "./favico.ico"
+    "icon": "http://luoye.iask.in:9090/favico.ico"
   }
 }
